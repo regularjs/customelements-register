@@ -17,7 +17,7 @@ After that, you are free to go:
 	<html>
     <head>
     	<script src="bower_components/regularjs/dist/regular.js"></script>
-        <script src="bower_components/regular-register/regular-register.js"></script>
+      <script src="bower_components/regular-register/index.js"></script>
     </head>
 	<body>
     	<r-mycomponent attribute="value" ...></r-mycomponent>
