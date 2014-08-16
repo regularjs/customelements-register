@@ -1,0 +1,26 @@
+{
+  "name": "regular-register",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/regularjs/customelements-register",
+  "authors": [
+    "cubika <receiveresume@163.com>"
+  ],
+  "description": "register Regular Component to Custom Elements",
+  "keywords": [
+    "regular",
+    "custom",
+    "elements"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "regularjs": "~0.2.4"
+  }
+}
