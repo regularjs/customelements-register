@@ -52,6 +52,10 @@
 			component.$update();
 		};
 
+		proto.detachedCallback = function() {
+			component.destroy();
+		};
+
 		document.registerElement(tagName, {
 			prototype: proto
 		});
